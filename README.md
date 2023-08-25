@@ -1,6 +1,6 @@
-<p align = "center"> 
+
 ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/ReadMe%20Image.PNG)
-</p>
+
 
 
 # Prediction Of Product Sales
