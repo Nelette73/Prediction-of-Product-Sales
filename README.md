@@ -6,7 +6,7 @@
 # Prediction Of Product Sales
 
 
-## Analyzing xxxxxxxx
+## Analyzing and Sales Prediction for Food Items Sold at Various Stores.
 
 Nelette Louw
 
