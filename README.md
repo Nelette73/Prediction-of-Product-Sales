@@ -1,44 +1,43 @@
-# Prediction Of Product Sales
-
 <p align = "center"> 
-![sample image](project1_sample_image.png)
+![sample image](ReadMe Image.png)
 </p>
 
 
-# Data Science Role Salaries & Insights
+# Prediction Of Product Sales
 
-## Analyzing Greatest & Least Salaries and Remote Work Opportunities
 
-Sherlin Whaley
+## Analyzing xxxxxxxx
 
-### Often times when choosing a career path, career seekers that have a love for data science want to work from home and earn the highest salary possible while doing so. There are so many options to choose from and knowing which path will be the best path to choose can be challenging.
+Nelette Louw
+
+### xxxxxxx
 
 ## Data Source: 
 Data Science Job Salaries
 https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 
-For this dataset, there were 607 rows and 12 columns.
+For this dataset, there were xx rows and xx columns.
 
 ## Data Dictionary
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/DS%20Salaries%20Data%20Dictionary.png">
+
 </p>
 
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
 ### Exploratory Data Analysis
-    - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column. 
-    - Also, a barplot was visualized for each categorical column. 
-    - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
+    - 
+    - 
+    - 
     
 
 <p align = "center"> 
   <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/exploratory1.png">
 </p>
 
-This histogram shows that the majority of the salaries are around $100,000.
+This histogram shows that .....
 
 
  ### Expanatory Data Analysis
@@ -50,17 +49,14 @@ This histogram shows that the majority of the salaries are around $100,000.
 ## Explanatory Visuals
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/explanatory1.png">
+  
 </p>
 
 
-The top five highest earning job titles and average salaries are as follows:
+The top five  are as follows:
 
-- Data Analytics Lead: `$405,000.00`
+-  `$405,000.00`
 - Principal Data Engineer: `$328,333.33`
-- Financial Data Analyst: `$275,000.00`
-- Principal Data Scientist: `$198,099.57`
-- Director of Data Science: `$195,074.00`
 
 The bottom five least paying job titles and average salaries are as follows: 
 
@@ -157,24 +153,16 @@ Using this model to make predictions about the best places to live and which car
 
 Data Science Insights
 
-- For those who have an interest in Data Science:
-  - Data Analytics Leads & Principal Data Engineers earn the most amount of money. However, this are usually not entry level careers and I would recommend going through a program, like Coding Dojo, where you can earn your data science certificate and then map out your career to these positions.
-
-  - Data Engineers & Data Scientists have the most 100% remote positions. So, if you are wanting to work from home, or work from anywhere in the world, choosing one of the top five remote positions would be a good choice to build your career upon.
-  
-  - Lastly, the trend for the last three years show that data science and related fields are increasingly earning more money each year. So, choosing a career in one of these fields can be very lucrative.
-
+- 
 Model Performance
-- Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model. 
+- 
 
 
 ## Limitations & Next Steps
 
-From here, a student could use the insights from the visuals on how to tailor their path for their career. As mentioned before, Coding Dojo has a fantastic program that prepares inspiring data scientists for the field of data science. 
 
 ## For Further Information
 
 For any additional questions, please contact: 
-- Sherlin Whaley (Data Science Instructor)
-- swhaley@codingdojo.com
-
+- Nelette Louw
+  (louw.n.mail@gmail.com)
