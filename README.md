@@ -1,5 +1,5 @@
 <p align = "center"> 
-![sample image](ReadMe Image.png)
+![Alt text](ReadMe Image.png)
 </p>
 
 
