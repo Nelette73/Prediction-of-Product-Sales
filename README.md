@@ -1,7 +1,7 @@
 # Prediction Of Product Sales
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg">
+![sample image](project1_sample_image.png)
 </p>
 
 
