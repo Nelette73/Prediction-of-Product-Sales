@@ -1,5 +1,5 @@
 <p align = "center"> 
-![Alt text](ReadMe Image.png)
+![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/ReadMe%20Image.PNG)
 </p>
 
 
