@@ -6,9 +6,10 @@
 # Prediction Of Product Sales
 
 
-## Analyzing and Sales Prediction for Food Items Sold at Various Stores.
+## Business Case:
+To analyse and understand the various products and outlets that play a crucial role in predicting sales.
 
-Nelette Louw
+Author: Nelette Louw
 
 ### xxxxxxx
 
@@ -19,10 +20,7 @@ https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 For this dataset, there were xx rows and xx columns.
 
 ## Data Dictionary
-
-<p align = "center"> 
-
-</p>
+![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/ReadMe%20Image.PNG)
 
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
