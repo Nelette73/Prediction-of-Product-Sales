@@ -11,7 +11,7 @@ To analyse and understand the various products and outlets that play a crucial r
 
 ### Author: Nelette Louw
 
-## Data Dictionary
+### Data Dictionary
 ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Dictionary.PNG))
 
 ## Exploratory Data Analysis
@@ -22,7 +22,8 @@ To analyse and understand the various products and outlets that play a crucial r
  - Supermarket Type 1 sold the most fruits and vegetables.
  
 ## Metrics
- - Random Forest Model : 
+ - Random Forest Model :
+   
 ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Metrics.PNG))
 
 ## Summary
