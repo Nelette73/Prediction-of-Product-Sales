@@ -9,16 +9,20 @@
 ## Business Case:
 To analyse and understand the various products and outlets that play a crucial role in predicting sales.
 
-Author: Nelette Louw
+### Author: Nelette Louw
 
 ## Data Dictionary
-![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Histogram.PNG))
+![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Dictionary.PNG))
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
    ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/HeatMap.PNG))
+ - There is a strong positive correlation between the outlet's sales and the item's listed price.
 
-    ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Dictionary.PNG))
-## Models Evaluated & Results
+   ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Histogram.PNG))
+ - Supermarket Type 1 sold the most fruits and vegetables.
+ 
+## Metrics
+ - Random Forest Model : 
 ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Metrics.PNG))
 
 ## Summary
