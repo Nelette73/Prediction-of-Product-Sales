@@ -12,16 +12,14 @@ To analyse and understand the various products and outlets that play a crucial r
 Author: Nelette Louw
 
 ## Data Dictionary
-![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Dictionary.PNG))
+![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Histogram.PNG))
 
 ### Exploratory Data Analysis
-    - 
-    - 
-    - 
+   ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/HeatMap.PNG))
 
-    
+    ![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Dictionary.PNG))
 ## Models Evaluated & Results
-
+![ReadMe Image](https://github.com/nelettelouw/Prediction-of-Product-Sales/blob/main/Metrics.PNG))
 
 ## Summary
 - The R^2 value indicates how well the independent variables influence the dependent variables i.e. how well the model fits the data.
